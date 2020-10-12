@@ -16,6 +16,10 @@ Uma lista de exercicios de programação para iniciantes ou para quem quer domin
      <br>
 - [ ] 6. Faça um Programa que peça o raio de um círculo, calcule e mostre
      sua área.
+     `A = π . r²`
+     
+     A = Area, r = Raio, π = Pi
+     
      <br>
 - [ ] 7. Faça um Programa que calcule a área de um quadrado, em seguida
      mostre o dobro desta área para o usuário.
@@ -26,7 +30,7 @@ Uma lista de exercicios de programação para iniciantes ou para quem quer domin
      <br>
 - [ ] 9. Faça um Programa que peça a temperatura em graus Farenheit,
      transforme e mostre a temperatura em graus Celsius.
-     `C = (5 \* (F-32) / 9).`
+     `C = (5 * (F-32) / 9).`
      <br>
 - [ ] 10. Faça um Programa que peça a temperatura em graus Celsius,
       transforme e mostre em graus Farenheit.
