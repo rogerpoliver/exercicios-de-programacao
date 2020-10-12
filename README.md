@@ -8,7 +8,7 @@ Uma lista de exercicios de programação para iniciantes ou para quem quer domin
      <br>
 - [x] 2. Faça um Programa que peça um número e então mostre a mensagem: _O número informado foi <número>_.
      <br>
-- [ ] 3. Faça um Programa que peça dois números e imprima a soma.
+- [x] 3. Faça um Programa que peça dois números e imprima a soma.
      <br>
 - [ ] 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
      <br>
