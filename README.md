@@ -6,7 +6,7 @@ Uma lista de exercicios de programação para iniciantes ou para quem quer domin
 
 - [x] 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
      <br>
-- [ ] 2. Faça um Programa que peça um número e então mostre a mensagem: _O número informado foi <número>_.
+- [x] 2. Faça um Programa que peça um número e então mostre a mensagem: _O número informado foi <número>_.
      <br>
 - [ ] 3. Faça um Programa que peça dois números e imprima a soma.
      <br>
